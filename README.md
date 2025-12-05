@@ -1,6 +1,6 @@
-<h1>Hi, I'm Michael, an <a href="https://www.linkedin.com/in/michaelkenneywork/">IT Professional</a></h1>
+<h1>Hi, I'm Michael, <a href="https://www.linkedin.com/in/michaelkenneywork/"> Cybersecurity Professional</a></h1>
 
-<h2>Check out my Information Technology Projects:</h2>
+<h2>Thanks for visiting my portfolio.:</h2>
 
 - <b>Help Desk Ticketing Systems and Working osTicket</b>
   - [osTicket: Installation, Configuration and Lifecycle of osTicket](https://github.com/michael-kenney/Install-Configure-Lifecycle-osTicket)

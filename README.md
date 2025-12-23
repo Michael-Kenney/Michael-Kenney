@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael, <a href="https://www.linkedin.com/in/michaelkenneywork/"> Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Michael, <a href="https://www.linkedin.com/in/michaelkenneywork/"> IT & Cybersecurity Professional</a></h1>
 
 <h2>Protecting People. Securing Technology. Shaping the Future.</h2>
 
